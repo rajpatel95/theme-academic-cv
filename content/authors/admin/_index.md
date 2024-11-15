@@ -35,29 +35,29 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https:/x.com/rjpatel117
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/rajpatel95
+  - icon: brands/github
     url: https://github.com/rajpatel238
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/raj-patel-827428103
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=bWBX05EAAAAJ
 
-interests:
-  - Artificial Intelligence (LLMs)
+Interests (Not in particular order):
+  - Gen AI / LLMs
   - Distributed System
   - Databases
-  - GPU
+  - GPUs
+  - Interpretable models
 
 education:
-  - area: M.S. (Masters of Science) in Computer Science
-    institution: USC
+  - area: M.S. in Computer Science
+    institution: University of Southern Calfironia (USC), Los Angeles, CA
     date_start: 2022-01-01
     date_end: 2024-05-31
     summary: |
-      GPA: 3.65/4.0
+      GPA: 3.65 / 4 (Does it even matter?)
 
       Courses included:
       - Information Retrieval
@@ -65,12 +65,13 @@ education:
       - Applied ML (ML for Data Science)
       - Mobile and Game development
       - NLP
-  - area: B.Tech Computer Engineering
-    institution: Nirma
+        
+  - area: B.Tech in Computer Engineering
+    institution: Nirma University, India
     date_start: 2013-08-01
     date_end: 2017-05-31
     summary: |
-      GPA: /4.0
+      
       
       Courses included:
       - Algorithms
@@ -79,7 +80,7 @@ education:
       - Operating Systems
       - Computer Networking
 work:
-  - position: SDE 2
+  - position: SDE 2 / Member of Technical Staff II
     company_name: Adobe
     company_url: ''
     company_logo: ''
@@ -87,9 +88,8 @@ work:
     date_end: 2021-12-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - (Check my resume)
+        
   - position: Lead Software Engineer
     company_name: Samsung Research
     company_url: https://research.samsung.com/
@@ -98,14 +98,12 @@ work:
     date_end: 2021-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - (Check my resume)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical Skills (Under construction)
     items:
       - name: C++
         description: ''
@@ -128,30 +126,35 @@ skills:
         percent: 40
         icon: circle-stack
         
-  - name: Hobbies
+  - name: Hobbies (Under construction)
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music Music Music
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Day Dreaming
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Eating
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi/Urdu
+    percent: 100
+  - name: Gujarati
+    percent: 100
+  - name: French
+    percent: 20
+  - name: Punjabi
+    percent: 30
+    
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -160,12 +163,12 @@ languages:
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2019-11-25'
+    awarder: DeepLearning.AI
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Blockchain Fundamentals (Under construction)
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
@@ -175,14 +178,6 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
