@@ -53,7 +53,7 @@ Interests (Not in particular order):
 
 education:
   - area: M.S. in Computer Science
-    institution: University of Southern Calfironia (USC), Los Angeles, CA
+    institution: University of Southern California (USC), Los Angeles, CA
     date_start: 2022-01-01
     date_end: 2024-05-31
     summary: |
