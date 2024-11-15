@@ -46,9 +46,10 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence (LLMs)
   - Distributed System
-  - Information Retrieval
+  - Databases
+  - GPU
 
 education:
   - area: M.S. (Masters of Science) in Computer Science
@@ -59,9 +60,11 @@ education:
       GPA: 3.65/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Information Retrieval
+      - Machine learning (Theory)
+      - Applied ML (ML for Data Science)
+      - Mobile and Game development
+      - NLP
   - area: B.Tech Computer Engineering
     institution: Nirma
     date_start: 2013-08-01
@@ -70,27 +73,29 @@ education:
       GPA: /4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms
+      - Discrete Math
+      - Compilers
+      - Operating Systems
+      - Computer Networking
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: SDE 2
+    company_name: Adobe
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-06-01
+    date_end: 2021-12-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Lead Software Engineer
+    company_name: Samsung Research
+    company_url: 'https://research.samsung.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-06-01
+    date_end: 2021-05-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
