@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Raj Patel
+# title: Raj Patel
 
 # Name pronunciation (optional)
-name_pronunciation: Raj Patel
+# name_pronunciation: Raj Patel
 
 # Full name (for SEO)
-# first_name: Raj
-# last_name: Patel
+first_name: Raj
+last_name: Patel
 
 # Status emoji
 status:
