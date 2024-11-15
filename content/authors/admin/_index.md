@@ -6,8 +6,8 @@ title: Raj Patel
 name_pronunciation: Raj Patel
 
 # Full name (for SEO)
-first_name: Raj
-last_name: Patel
+# first_name: Raj
+# last_name: Patel
 
 # Status emoji
 status:
