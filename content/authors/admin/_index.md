@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Raj Patel
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Raj Patel
 
 # Full name (for SEO)
 first_name: Raj
