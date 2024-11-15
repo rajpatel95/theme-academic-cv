@@ -92,7 +92,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Lead Software Engineer
     company_name: Samsung Research
-    company_url: 'https://research.samsung.com/'
+    company_url: https://research.samsung.com/
     company_logo: ''
     date_start: 2017-06-01
     date_end: 2021-05-31
@@ -107,11 +107,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
         icon: chart-bar
@@ -119,6 +119,15 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Web development
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Python
+        description: ''
+        percent: 40
+        icon: circle-stack
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
