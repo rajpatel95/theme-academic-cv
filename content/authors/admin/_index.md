@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Raj Patel
+title: Raj Patel
 
 # Name pronunciation (optional)
 # name_pronunciation: Raj Patel
@@ -38,7 +38,8 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rajpatel95
+    url: https://github.com/rajpatel238
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
