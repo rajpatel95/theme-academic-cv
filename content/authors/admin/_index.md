@@ -138,7 +138,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Music Music Music
+      - name: Maas (Music As A Service)
         description: ''
         percent: 100
         icon: person-simple-walk
