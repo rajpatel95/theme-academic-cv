@@ -80,6 +80,14 @@ education:
       - Operating Systems
       - Computer Networking
 work:
+  - position: Intern
+    company_name: ICPC Foundation
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 
+
+
   - position: SDE 2 / Member of Technical Staff II
     company_name: Adobe
     company_url: ''
