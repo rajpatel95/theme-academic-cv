@@ -57,7 +57,7 @@ education:
     date_start: 2022-01-01
     date_end: 2024-05-31
     summary: |
-      GPA: 3.65 / 4 (Does it even matter?)
+      GPA: (Does it even matter?)
 
       Courses included:
       - Information Retrieval
