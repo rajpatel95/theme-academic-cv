@@ -80,12 +80,19 @@ education:
       - Operating Systems
       - Computer Networking
 work:
+- position: Senior Software Engineer
+    company_name: Startup
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-11-01
+    date_end: 
+  
   - position: Intern
     company_name: ICPC Foundation
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
-    date_end: 
+    date_end: 2024-11-01
 
 
   - position: SDE 2 / Member of Technical Staff II
