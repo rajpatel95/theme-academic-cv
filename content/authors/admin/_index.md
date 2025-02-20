@@ -80,7 +80,7 @@ education:
       - Operating Systems
       - Computer Networking
 work:
-- position: Senior Software Engineer
+  - position: Senior Software Engineer
     company_name: Startup
     company_url: ''
     company_logo: ''
