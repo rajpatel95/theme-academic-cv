@@ -85,7 +85,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-11-01
-    date_end: 
+    date_end: ''
   
   - position: Intern
     company_name: ICPC Foundation
