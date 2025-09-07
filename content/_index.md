@@ -41,6 +41,24 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: '🔬 Research '
+      subtitle: ''
+      text: |-
+        ## Peer Review Experience
+        
+        **Conference Reviewer**
+        - [Conference Name] (2024)
+        - [Another Conference] (2023-2024)
+        
+        **Journal Reviewer** 
+        - [Journal Name] (2024)
+        - [Another Journal] (2023-2024)
+        
+        *Serving the research community through peer review of academic papers and conference submissions.*
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
@@ -62,16 +80,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  - block: markdown
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+      title: '⚖️ Judge & Reviewer Activities'
+      subtitle: ''
+      text: |-
+        ## Peer Review Experience
+        
+        **EMNLP Conference Reviewer**
+        - [EMNLP 2023](https://2023.emnlp.org/) - August 2023
+        - [EMNLP 2022](https://2022.emnlp.org/) - August 2022  
+        - [EMNLP 2021](https://2021.emnlp.org/) - August 2021
+        
+        ## Hackathon Judging
+        
+        **FIU Summer Hack 2025** - August 2025
+        - *Judge for FIU Summer Hackathon (link to be added)*
+        
+        *Contributing to the research community through peer review and supporting student innovation through hackathon judging.*
     design:
-      view: article-grid
-      columns: 1
+      columns: '1'
   - block: collection
     id: news
     content:
