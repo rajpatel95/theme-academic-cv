@@ -24,7 +24,7 @@ role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: <TBD>
+  - name: Stealth Mode Startup
     url: <TBD>
 
 # Social network links
