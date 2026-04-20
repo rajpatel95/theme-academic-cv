@@ -25,7 +25,7 @@ role: Software Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Stealth Mode Startup
-    url: <TBD>
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -80,19 +80,19 @@ education:
       - Operating Systems
       - Computer Networking
 work:
-  - position: Senior Software Engineer
-    company_name: Startup
+  - position: Software Engineer Machine Learning
+    company_name: AT&T
     company_url: ''
     company_logo: ''
-    date_start: 2024-11-01
+    date_start: 2026-03-01
     date_end: ''
   
-  - position: Intern
-    company_name: ICPC Foundation
+  - position: Senior Software Developer
+    company_name: California ISO
     company_url: ''
     company_logo: ''
-    date_start: 2024-03-01
-    date_end: 2024-11-01
+    date_start: 2025-06-01
+    date_end: 2026-04-01
 
 
   - position: SDE 2 / Member of Technical Staff II
@@ -197,4 +197,4 @@ awards:
 
 ## About Me
 
-I am a part-time software engineer and full-time math enthusiast. Currently, I am seeking new opportunities and exploring new avenues in life. I have worked with numerous tech stacks and programming languages, so many that I’ve lost count. I have a broad knowledge base, making me a true jack-of-all-trades.
+I am a software engineer with interests in Machine Learning, Gen AI, Systems, and Infra.
